@@ -3,6 +3,6 @@
   "body": "",
   "notification": {
     "createdAt": "2024-05-27T20:45:36Z",
-    "body": "Hello, this is a test notification and (this)[https://trynarada.com] is a link to our website."
+    "body": "Hello, this is a test notification and [this](https://trynarada.com) is a link to our website."
   }
 }
