@@ -1,9 +1,9 @@
 {
-  "title": "Scheduled Maintenance",
-  "body": "Narada will undergo maintenance on 11th of July 2024 at 12:00:00 AM IST which will halt all services. This shouldn't take more than 10 minutes. Thanks!",
+  "title": "Maintenance Rescheduled",
+  "body": "Narada will now undergo maintenance on 11th of July 2024 at 12:00:00 PM IST which will halt all services. This shouldn't take more than 10 minutes. Thanks!",
   "data": {
-    "body": "Narada will undergo maintenance on 11th of July 2024 at 12:00:00 AM IST which will halt all services. This shouldn't take more than 10 minutes. Thanks!",
-    "markdown_body": "Narada will undergo maintenance on 11th of July 2024 at 12:00:00 AM IST which will halt all services. This shouldn't take more than 10 minutes. Thanks!",
-    "created_at": "2024-07-09T19:41:12Z"
+    "body": "Due to heavy traffic, maintenance has been rescheduled. Narada will now undergo maintenance on 11th of July 2024 at 12:00:00 PM IST which will halt all services. This shouldn't take more than 10 minutes. Thanks!",
+    "markdown_body": "Due to heavy traffic, maintenance has been rescheduled. Narada will now undergo maintenance on 11th of July 2024 at 12:00:00 PM IST which will halt all services. This shouldn't take more than 10 minutes. Thanks!",
+    "created_at": "2024-07-10T18:03:32Z"
   }
 }
