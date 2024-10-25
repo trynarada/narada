@@ -2,8 +2,8 @@
   "title": "Update",
   "body": "Hi, this is a humble request to update Narada to the latest version as the version you are currently using will not be supported for long. Thank you.",
   "data": {
-    "body": "",
-    "markdown_body": "",
-    "created_at": ""
+    "body": "Hi, we've removed Waaree for now and will add it back as soon as the load comes under a manageable level. Sorry for the inconvenience caused, especially for the server crash that happened. Thanks!",
+    "markdown_body": "Hi, we've removed Waaree for now and will add it back as soon as the load comes under a manageable level. Sorry for the inconvenience caused, especially for the server crash that happened. Thanks!",
+    "created_at": "2024-10-25T06:17:20Z"
   }
 }
