@@ -2,8 +2,8 @@
   "title": "Update",
   "body": "Hi, this is a humble request to update Narada to the latest version as the version you are currently using will not be supported for long. Thank you.",
   "data": {
-    "body": "",
-    "markdown_body": "",
-    "created_at": ""
+    "body": "Hi, we recently launched the feature to apply for IPOs, but we realize we didn’t announce it earlier. So, here’s the official update: you can now apply for any IPO from all your accounts with just a single click. Simply update your **Demat ID** associated with your **existing broker account** and add your **UPI ID** by tapping the **pencil icon** on the **PANs screen**, and you're all set. Thanks!",
+    "markdown_body": "Hi, we recently launched the feature to apply for IPOs, but we realize we didn’t announce it earlier. So, here’s the official update: you can now apply for any IPO from all your accounts with just a single click. Simply update your **Demat ID** associated with your **existing broker account** and add your **UPI ID** by tapping the **pencil icon** on the **PANs screen**, and you're all set. Thanks!",
+    "created_at": "2024-11-02T08:55:04Z"
   }
 }
