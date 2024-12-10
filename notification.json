@@ -2,8 +2,8 @@
   "title": "Update",
   "body": "Hi, this is a humble request to update Narada to the latest version as the version you are currently using will not be supported for long. Thank you.",
   "data": {
-    "body": "Hi, we're excited to announce that you can now check the live subscription for an IPO by updating the app to the latest version and tapping the **Check subscription** button on the IPO page. We've added the subscriptions only for the recent IPOs at this moment and it will also be available for all the upcoming IPOs so if you try to check the subscription for an old IPO and don't find it there, please don't mind. Thanks!",
-    "markdown_body": "Hi, we're excited to announce that you can now check the live subscription for an IPO by updating the app to the latest version and tapping the **Check subscription** button on the IPO page. We've added the subscriptions only for the recent IPOs at this moment and it will also be available for all the upcoming IPOs so if you try to check the subscription for an old IPO and don't find it there, please don't mind. Thanks!",
-    "created_at": "2024-12-01T11:21:13Z"
+    "body": "Hi, it has come to our attention that some of the allotment statuses for the IPO of **Nisus Finance Services Co Limited** were inadvertently displayed as **Not Applied**. Please note that this is a known issue for Skyline IPOs and cannot be solved from our side. You may retry by tapping the **Incorrect? Reload** button from the three-dot menu available on the right side of any allotment or rely on the SMS and email sent to you by the registrar or the exchange as they reflect the true status. Thanks!",
+    "markdown_body": "Hi, it has come to our attention that some of the allotment statuses for the IPO of **Nisus Finance Services Co Limited** were inadvertently displayed as **Not Applied**. Please note that this is a known issue for Skyline IPOs and cannot be solved from our side. You may retry by tapping the **Incorrect? Reload** button from the three-dot menu available on the right side of any allotment or rely on the SMS and email sent to you by the registrar or the exchange as they reflect the true status. Thanks!",
+    "created_at": "2024-12-10T05:57:28Z"
   }
 }
