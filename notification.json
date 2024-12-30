@@ -2,8 +2,8 @@
   "title": "Update",
   "body": "Hi, this is a humble request to update Narada to the latest version as the version you are currently using will not be supported for long. Thank you.",
   "data": {
-    "body": "",
-    "markdown_body": "",
-    "created_at": ""
+            "body": "Hi, this is to answer a lot of queries that we get regarding data privacy. Narada has access to and stores the following data points in its server. 1. PANs (both Saved and Unsaved) 2. Allotment 3. Phone number 4. IPO Application. All the data points are either necessary for the functioning of the app or is mandated by SEBI to be stored for a few years. We are also bound by contract to adhere all security measures set by exchanges and SEBI to protect user data. Apart from this, any sensitive data is not shared with any third party whatsoever unless it is necessary for the expected functioning i.e., sharing of PAN with the registrar of the IPO for fetching allotment status, sharing of phone number with messaging provider to send OTP. Thanks!",
+    "markdown_body": "Hi, this is to answer a lot of queries that we get regarding data privacy. Narada has access to and stores the following data points in its server. 1. PANs (both Saved and Unsaved) 2. Allotment 3. Phone number 4. IPO Application. All the data points are either necessary for the functioning of the app or is mandated by SEBI to be stored for a few years. We are also bound by contract to adhere all security measures set by exchanges and SEBI to protect user data. Apart from this, any sensitive data is not shared with any third party whatsoever unless it is necessary for the expected functioning i.e., sharing of PAN with the registrar of the IPO for fetching allotment status, sharing of phone number with messaging provider to send OTP. Thanks!",
+    "created_at": "2024-12-30T09:48:10Z"
   }
 }
